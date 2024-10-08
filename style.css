@@ -1,0 +1,19 @@
+table ,th,td{
+    /* background-color: rgb(111, 211, 250); */
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr:nth-child(even){
+    background-color: #f5f5f5;
+
+}
+th , td {
+    padding: 10px;
+}
+tr{
+    /* padding: 5px; */
+/* margin: 5px; */
+border: 1px solid;
+}
+
